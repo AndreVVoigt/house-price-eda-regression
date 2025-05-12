@@ -1,0 +1,13 @@
+# Python cache e bytecode
+__pycache__/
+*.py[cod]
+
+# Dados brutos (não versionar CSVs grandes)
+data/*.csv
+
+# Ambientes virtuais
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
