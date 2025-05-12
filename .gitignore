@@ -2,8 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# Dados brutos (não versionar CSVs grandes)
-data/*.csv
 
 # Ambientes virtuais
 venv/
